@@ -36,5 +36,5 @@
   roles:
     - geerlingguy.docker
     - deekayen.awscli2
-    - diodonfrost.terraforms
+    - diodonfrost.terraform
     - packages
